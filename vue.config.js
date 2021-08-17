@@ -1,5 +1,5 @@
 module.exports = {
     publicPath: process.env.NODE_ENV === 'production'
-      ? '1221/'
-      : '12121/'
+      ? '/'
+      : '/imooc30_test_project/'
   }
